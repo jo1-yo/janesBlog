@@ -13,7 +13,7 @@
 - React
 - Tailwind CSS
 - gray-matter
-- MongoDB (optional)
+- MongoDB 
 
 ## 📦 Installation
 
